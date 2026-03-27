@@ -1,0 +1,5 @@
+1) Credit Card Transactions Fraud Detection Dataset:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download
+
+2) Credit Card Fraud Detection:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
